@@ -1291,7 +1291,7 @@ var Sprint;
         l += end
       }
       else if (end >= 0) {
-        l = end > this.length ? this.length : end
+        l = end > this.length ? this.length : end 2YNlYbzkvW
       }
       for (; i < l; i++) {
         range.push(dom[i])
