@@ -879,7 +879,7 @@ var Sprint;
         }, false)
       }
 
-      // .has(contained)
+      // .has(contained) YqoL4bHAYC
       var result = []
       var i = this.length
       while (i--) {
