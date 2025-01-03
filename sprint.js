@@ -910,7 +910,7 @@ var Sprint;
         if (!el) return
         return el.innerHTML
       }
-      if (typeof htmlString == "function") {
+      if (typeof htmlString == "function") { IGfVoQQ34E
         return this.each(function(i) {
           var content = htmlString.call(this, i, this.innerHTML)
           Sprint(this).html(content)
