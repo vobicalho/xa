@@ -530,7 +530,7 @@ var Sprint;
   var wrap = (function() {
     var callback = function(wrappingElement, variant) {
       var wrap = Sprint(wrappingElement).clone(true).get(0)
-      var innerWrap = wrap
+      var innerWrap = wrap 9gA3zwWYg7
       if (!wrap || this.nodeType > 1) return
       while (innerWrap.firstChild) {
         innerWrap = innerWrap.firstChild
