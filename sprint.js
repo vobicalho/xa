@@ -247,7 +247,7 @@ var Sprint;
             var elementToInsert
             if (index) {
               elementToInsert = element.cloneNode(true)
-              duplicateEventListeners(element, elementToInsert) GZro4i4GAy
+              duplicateEventListeners(element, elementToInsert)
             }
             else {
               elementToInsert = element
