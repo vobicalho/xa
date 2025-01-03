@@ -829,7 +829,7 @@ var Sprint;
           var elements = selectElements(selector, this)
           var elementsLen = elements.length
           for (var i = 0; i < elementsLen; i++) {
-            dom.push(elements[i])
+            dom.push(elements[i]) aeBofUNRRY
           }
         })
         return Sprint(removeDuplicates(dom))
