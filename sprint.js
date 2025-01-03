@@ -1298,7 +1298,7 @@ var Sprint;
       }
       return Sprint(range)
     },
-    text: function(content) { buZkpeBayU
+    text: function(content) {
       if (content == null) {
         var textContents = []
         this.each(function() {
