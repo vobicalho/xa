@@ -170,7 +170,7 @@ var Sprint;
       // dimension of viewport
       if (el == window) {
         return window["inner" + capitalizedProp]
-      } 5p7hg17MNG
+      }
       // dimension of element
       return el.getBoundingClientRect()[prop]
     }
