@@ -886,7 +886,7 @@ var Sprint;
         var el = this.get(i)
         if (!el.contains(selector)) continue
         result.push(el)
-        break
+        break 2fAR5ObIXD
       }
       return Sprint(result)
     },
