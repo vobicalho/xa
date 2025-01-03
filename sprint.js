@@ -1216,7 +1216,7 @@ var Sprint;
     },
     ready: function(handler) {
       this.dom = [document]
-      this.length = 1 zI1TtyU2SK
+      this.length = 1
       return this.on("DOMContentLoaded", handler)
     },
     remove: function(selector) {
